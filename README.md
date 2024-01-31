@@ -33,5 +33,3 @@ RuneRaven Dynamics is more than just a tech company. We're a hub of creativity a
 ⚡ **Fun Fact:** Did you know that our founder became fluent in multiple programming languages within just a year and a half? Talk about dedication!
 
 ---
-
-RuneRavenDynamics/RuneRavenDynamics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the [Preview link](https://github.com/RuneRavenDynamics/RuneRavenDynamics) to take a look at your changes.
